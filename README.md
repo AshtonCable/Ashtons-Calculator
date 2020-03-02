@@ -1,6 +1,6 @@
 # ashtons_calculator
 
-A new open source calculator app made with Flutter
+A simple calculator app made with Flutter
 
 ## Getting Started
 
