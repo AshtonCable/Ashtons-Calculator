@@ -35,7 +35,7 @@ class About extends StatelessWidget {
                 height: 200,
               ),
               Text(
-                "This app was developed by me, Ashton Cable with Flutter and Dart, it is an open source project that I will be releasing on GitHub and the Google Play Store",
+                "This app was developed by me, Ashton Cable with Flutter and Dart, it is an open source project that I will be releasing on GitHub",
                 textAlign: TextAlign.center,
                 style: TextStyle(height: 1.5, fontSize: 13),
               ),
