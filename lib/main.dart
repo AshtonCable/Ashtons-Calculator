@@ -8,12 +8,12 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Ashtons Calculator',
+      title: 'AshCalc',
       theme: ThemeData(
         primarySwatch: Colors.red,
         brightness: Brightness.dark,
       ),
-      home: MyHomePage(title: 'Ashtons Calculator'),
+      home: MyHomePage(title: 'AshCalc'),
     );
   }
 }
